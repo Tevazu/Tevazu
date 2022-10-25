@@ -1,6 +1,6 @@
 - 👋 Hey, I'm Yusuf and this is a little bit of me...
 - 👀 I’m interested in learning new programming languages and seeing how far I reach in programming every step I take. I'm a student of Computer Programming department in Istanbul Aydin University.
-- 🌱 I’m currently learning OpenCV.
+- 🌱 I’m currently learning Unity Game Developing.
 
 - 📫 How to reach me: yusuf-python@hotmail.com
 
